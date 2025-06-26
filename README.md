@@ -1,2 +1,34 @@
-# Landing-page
-this is my first repository
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Awesome Landing Page</h1>
+    </header>
+
+    <section class="hero-section">
+        <h2>Discover something amazing!</h2>
+        <p>This is some introductory text about what your landing page is about.</p>
+        <button>Learn More</button>
+    </section>
+
+    <section class="features-section">
+        <h2>Key Features</h2>
+        <div class="feature">
+            <h3>Feature 1</h3>
+            <p>Description of feature 1.</p>
+        </div>
+        <div class="feature">
+            <h3>Feature 2</h3>
+            <p>Description of feature 2.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 My Landing Page</p>
+    </footer>
+</body>
+</html>
